@@ -1,0 +1,186 @@
+﻿Country,Yield Int 2040,Food Self Sufficiency in 2040,Change in Food Self Sufficiency in 2040,Code,ISO,Legend - Change in Self-Sufficiency,Legend - Self-Sufficiency,Legend - Yield Intensity,yield int category
+Afghanistan,0.298,0.514542936,-0.012415355,21.71,AFG,Between -0.03 and -0.01,Between 0.5 and 0.75,Less than 0.3,1
+Albania,0.669,0.939086294,-0.006434287,13.4,ALB,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.6 and 0.7,5
+Algeria,0.33,0.457010341,-0.004613164,227.8,DZA,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.3 and 0.4,2
+Angola,0.147,0.34319107,-0.009763178,131.4,AGO,Between -0.01 and 0.01,Between 0.25 and 0.5,Less than 0.3,1
+Argentina,0.74,1.428784019,-0.004099488,536.2,ARG,Between -0.01 and 0.01,Between 1.25 and 1.5,Between 0.7 and 0.8,6
+Armenia,0.65,0.940260833,-0.005645903,10.88,ARM,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.6 and 0.7,5
+Australia,0.476,1.362768103,0.014103876,1483,AUS,Between 0.01 and 0.03,Between 1.25 and 1.5,Between 0.4 and 0.5,3
+Austria,0.732,0.730250118,0.001297826,436.1,AUT,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.7 and 0.8,6
+Azerbaijan,0.578,0.912044271,0.004386613,77.91,AZE,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.5 and 0.6,4
+Bahamas,0.577,1.125736739,-0.029138978,8.65,BHM,Between -0.03 and -0.01,Between 1.05 and 1.25,Between 0.5 and 0.6,4
+Bahrain,0.551,0.245388485,-0.001443471,34.05,BHR,Between -0.01 and 0.01,Less than 0.25,Between 0.5 and 0.6,4
+Bangladesh,0.823,0.636070267,-0.000345806,186.6,BGD,Between -0.01 and 0.01,Between 0.5 and 0.75,Greater than 0.8,7
+Barbados,0.493,0.548106904,0.000623316,4.28,BRB,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.4 and 0.5,3
+Belarus,0.442,1.387766149,0.003056889,75.25,BLR,Between -0.01 and 0.01,Between 1.25 and 1.5,Between 0.4 and 0.5,3
+Belgium,0.773,0.695676644,0.004714471,527.8,BEL,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.7 and 0.8,6
+Belize,0.6,0.867392044,-0.075206144,1.67,BLZ,Less than -0.03,Between 0.75 and 0.95,Between 0.6 and 0.7,5
+Benin,0.431,0.498190892,-0.009642493,9.24,BEN,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.4 and 0.5,3
+Bhutan,0.371,0.761609907,-0.016663902,2.09,BTN,Between -0.03 and -0.01,Between 0.75 and 0.95,Between 0.3 and 0.4,2
+Bolivia,0.473,0.925471023,-0.028185782,34.08,BOL,Between -0.03 and -0.01,Between 0.75 and 0.95,Between 0.4 and 0.5,3
+Bosnia and Herzegovina,0.383,0.618171886,-0.009286169,19.55,BIH,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.3 and 0.4,2
+Botswana,0.321,0.291116006,-0.008811896,16.3,BWA,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.3 and 0.4,2
+Brazil,0.723,1.159547935,-0.005595365,2244,BRA,Between -0.01 and 0.01,Between 1.05 and 1.25,Between 0.7 and 0.8,6
+Brunei Darussalam,0.208,0.292473118,0.002773547,17.43,BRN,Between -0.01 and 0.01,Between 0.25 and 0.5,Less than 0.3,1
+Bulgaria,0.475,1.870545233,-0.001685419,55.08,BGR,Between -0.01 and 0.01,Greater than 1.75,Between 0.4 and 0.5,3
+Burkina Faso,0.58,0.572631579,-0.011068691,13.38,BFA,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.5 and 0.6,4
+Burundi,0.264,0.565388397,0.001088594,3.04,BDI,Between -0.01 and 0.01,Between 0.5 and 0.75,Less than 0.3,1
+Cabo Verde,0.428,0.22754159,-0.00711545,1.98,CPV,Between -0.01 and 0.01,Less than 0.25,Between 0.4 and 0.5,3
+Cambodia,0.551,0.971286848,-0.038996144,16.9,KHM,Less than -0.03,Between 0.95 and 1.05,Between 0.5 and 0.6,4
+Cameroon,0.725,0.521048489,-0.014108616,32.16,CMR,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.7 and 0.8,6
+Canada,0.881,1.481538926,-0.002295509,1794,CAN,Between -0.01 and 0.01,Between 1.25 and 1.5,Greater than 0.8,7
+Central African Republic,0.318,0.495446266,-0.012409708,1.73,CAF,Between -0.03 and -0.01,Between 0.25 and 0.5,Between 0.3 and 0.4,2
+Chad,0.367,0.542140992,-0.020465099,15.84,TCD,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.3 and 0.4,2
+Chile,0.834,0.856514266,0.000864453,264.1,CHL,Between -0.01 and 0.01,Between 0.75 and 0.95,Greater than 0.8,7
+China,0.841,0.950977499,0.001327149,10360,CHN,Between -0.01 and 0.01,Between 0.95 and 1.05,Greater than 0.8,7
+Colombia,0.58,0.693275563,0.001179755,400.1,COL,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.5 and 0.6,4
+Comoros,0.384,0.593164278,-0.002280408,0.72,COM,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.3 and 0.4,2
+Congo,0.244,0.659542163,-0.051083914,32.67,COD,Less than -0.03,Between 0.5 and 0.75,Less than 0.3,1
+Democratic Republic of Congo,0.214,0.705178869,-0.013313325,14.11,COG,Between -0.03 and -0.01,Between 0.5 and 0.75,Less than 0.3,1
+Costa Rica,0.824,1.179169649,-0.014642584,50.46,CRI,Between -0.03 and -0.01,Between 1.05 and 1.25,Greater than 0.8,7
+Cote D'Ivoire,0.479,0.690549759,-0.010170385,33.96,CIV,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.4 and 0.5,3
+Croatia,0.531,0.898247521,-0.01295926,57.18,HRV,Between -0.03 and -0.01,Between 0.75 and 0.95,Between 0.5 and 0.6,4
+Cuba,0.684,0.768714752,-0.000306826,77.15,CUB,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.6 and 0.7,5
+Cyprus,0.521,0.438508065,0.001818134,21.34,CYP,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.5 and 0.6,4
+Czech Republic,0.687,1.019726286,0.009394355,205.6,CZE,Between -0.01 and 0.01,Between 0.95 and 1.05,Between 0.6 and 0.7,5
+Denmark,0.928,0.972561229,0.002738256,347.2,DNK,Between -0.01 and 0.01,Between 0.95 and 1.05,Greater than 0.8,7
+Djibouti,0.549,0.048204624,0.000259418,1.58,DJI,Between -0.01 and 0.01,Less than 0.25,Between 0.5 and 0.6,4
+Dominican Republic,0.619,0.78622807,-0.00262709,64.05,DOM,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.6 and 0.7,5
+Ecuador,0.514,1.035868626,0.03125061,100.5,ECU,Greater than 0.03,Between 0.95 and 1.05,Between 0.5 and 0.6,4
+Egypt,0.788,0.492410857,-0.006284795,284.9,EGY,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.7 and 0.8,6
+El Salvador,0.633,0.728608752,-0.005483635,25.14,SLV,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.6 and 0.7,5
+Equatorial Guinea,0.368,0.528653295,0.00318923,15.4,GNQ,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.3 and 0.4,2
+Eritrea,0.209,0.764110287,0.003346791,3.87,ERI,Between -0.01 and 0.01,Between 0.75 and 0.95,Less than 0.3,1
+Estonia,0.499,1.905840886,0.015348104,26.36,EST,Between 0.01 and 0.03,Greater than 1.75,Between 0.4 and 0.5,3
+Eswatini,0.709,0.761018519,-0.013011056,3.84,SWZ,Between -0.03 and -0.01,Between 0.75 and 0.95,Between 0.7 and 0.8,6
+Ethiopia,0.423,0.788157454,-0.00841469,49.86,ETH,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.4 and 0.5,3
+Fiji,0.625,0.705945559,-0.022392509,4.17,FJI,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.6 and 0.7,5
+Finland,0.641,0.737477148,-0.000387815,276.3,FIN,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.6 and 0.7,5
+France,0.876,0.957750132,-0.001080555,2902,FRA,Between -0.01 and 0.01,Between 0.95 and 1.05,Greater than 0.8,7
+Gabon,0.316,0.445630081,-0.002183919,20.68,GAB,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.3 and 0.4,2
+Gambia,0.571,0.272171254,-0.002144856,0.92,GMB,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.5 and 0.6,4
+Georgia,0.251,0.56067206,-0.009961634,16.13,GEO,Between -0.01 and 0.01,Between 0.5 and 0.75,Less than 0.3,1
+Germany,0.894,0.798400424,0.002896997,3820,DEU,Between -0.01 and 0.01,Between 0.75 and 0.95,Greater than 0.8,7
+Ghana,0.565,0.562811318,-0.001320676,35.48,GHA,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.5 and 0.6,4
+Greece,0.565,0.726779661,0.001516503,246.4,GRC,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.5 and 0.6,4
+Grenada,0.486,0.459868421,0.006253963,0.84,GRD,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.4 and 0.5,3
+Guatemala,0.561,0.952311015,-0.00604027,58.3,GTM,Between -0.01 and 0.01,Between 0.95 and 1.05,Between 0.5 and 0.6,4
+Guinea,0.407,0.590552995,0.001035754,6.77,GIN,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.4 and 0.5,3
+Guinea Bissau,0.577,0.574109721,-0.012487731,1.04,GNB,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.5 and 0.6,4
+Guyana,0.786,0.856053384,0.041959736,3.14,GUY,Greater than 0.03,Between 0.75 and 0.95,Between 0.7 and 0.8,6
+Haiti,0.578,0.482874889,-0.010164758,8.92,HTI,Between -0.03 and -0.01,Between 0.25 and 0.5,Between 0.5 and 0.6,4
+Honduras,0.412,1.009886128,-0.030257609,19.37,HND,Less than -0.03,Between 0.95 and 1.05,Between 0.4 and 0.5,3
+Hong Kong,0.722,0.139477124,0.005830557,292.7,HKG,Between -0.01 and 0.01,Less than 0.25,Between 0.7 and 0.8,6
+Hungary,0.609,1.495395111,-0.002621886,129.7,HUN,Between -0.01 and 0.01,Between 1.25 and 1.5,Between 0.6 and 0.7,5
+Iceland,0.912,3.462176166,0.011577875,16.2,ISL,Between 0.01 and 0.03,Greater than 1.75,Greater than 0.8,7
+India,0.712,0.779079903,-0.010926081,2048,IND,Between -0.03 and -0.01,Between 0.75 and 0.95,Between 0.7 and 0.8,6
+Indonesia,0.897,0.955824823,-0.009624712,856.1,IDN,Between -0.01 and 0.01,Between 0.95 and 1.05,Greater than 0.8,7
+Iran,0.524,0.753700375,0.002645775,402.7,IRN,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.5 and 0.6,4
+Iraq,0.319,0.173291367,-0.007565944,232.2,IRQ,Between -0.01 and 0.01,Less than 0.25,Between 0.3 and 0.4,2
+Ireland,0.952,0.900888325,-3.39E-06,245.8,IRL,Between -0.01 and 0.01,Between 0.75 and 0.95,Greater than 0.8,7
+Israel,0.504,0.426729386,0.001122322,305,ISR,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.5 and 0.6,4
+Italy,0.693,0.738149598,0.007801875,2129,ITA,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.6 and 0.7,5
+Jamaica,0.289,0.530911552,-0.004643009,13.92,JAM,Between -0.01 and 0.01,Between 0.5 and 0.75,Less than 0.3,1
+Japan,0.846,0.478949731,-0.000880018,4770,JPN,Between -0.01 and 0.01,Between 0.25 and 0.5,Greater than 0.8,7
+Jordan,0.523,0.362075848,-0.003236342,36.55,JOR,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.5 and 0.6,4
+Kazakhstan,0.516,1.271008914,-0.021229172,225.6,KAZ,Between -0.03 and -0.01,Between 1.25 and 1.5,Between 0.5 and 0.6,4
+Kenya,0.425,0.53248731,-0.004807835,62.72,KEN,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.4 and 0.5,3
+"Korea, Dem. People's Republic",0.711,0.665129245,-0.000440375,28,PRK,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.7 and 0.8,6
+"Korea, Republic of",0.856,0.470572423,6.12E-05,1410,KOR,Between -0.01 and 0.01,Between 0.25 and 0.5,Greater than 0.8,7
+Kosovo,0.521,1.046989721,-0.00949109,5.99,KSV,Between -0.01 and 0.01,Between 0.95 and 1.05,Between 0.5 and 0.6,4
+Kuwait,0.818,0.184990619,0.001526196,179.3,KWT,Between -0.01 and 0.01,Less than 0.25,Greater than 0.8,7
+Kyrgyzstan,0.729,0.689446809,-0.006315903,7.65,KGZ,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.7 and 0.8,6
+Laos,0.719,1.209180328,-0.049410458,11.71,LAO,Less than -0.03,Between 1.05 and 1.25,Between 0.7 and 0.8,6
+Latvia,0.472,2.031935484,0.004318271,32.82,LVA,Between -0.01 and 0.01,Greater than 1.75,Between 0.4 and 0.5,3
+Lebanon,0.484,0.346902445,-0.024998382,47.5,LBN,Between -0.03 and -0.01,Between 0.25 and 0.5,Between 0.4 and 0.5,3
+Lesotho,0.257,0.390842191,-0.000497678,2.46,LSO,Between -0.01 and 0.01,Between 0.25 and 0.5,Less than 0.3,1
+Liberia,0.465,0.391720408,-0.00023625,2.07,LBR,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.4 and 0.5,3
+Lithuania,0.613,1.903291857,0.013498494,48.72,LTU,Between 0.01 and 0.03,Greater than 1.75,Between 0.6 and 0.7,5
+Luxembourg,0.464,0.679856115,-0.001224966,63.93,LUX,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.4 and 0.5,3
+"Macedonia, North",0.463,0.839121191,-0.013003853,10.92,MKD,Between -0.03 and -0.01,Between 0.75 and 0.95,Between 0.4 and 0.5,3
+Madagascar,0.416,0.536429244,-0.03293652,11.19,MDG,Less than -0.03,Between 0.5 and 0.75,Between 0.4 and 0.5,3
+Malawi,0.395,0.706837265,-0.015332173,4.41,MWI,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.3 and 0.4,2
+Malaysia,0.743,1.078844902,-0.002555205,336.9,MYS,Between -0.01 and 0.01,Between 1.05 and 1.25,Between 0.7 and 0.8,6
+Maldives,0.482,0.287935035,-0.004269865,2.41,MDV,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.4 and 0.5,3
+Mali,0.555,0.637557541,-0.010574681,12.04,MLI,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.5 and 0.6,4
+Malta,0.769,0.316329966,0.002640484,10.57,MLT,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.7 and 0.8,6
+Mauritania,0.557,0.414244186,-0.000111442,4.29,MRT,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.5 and 0.6,4
+Mauritius,0.809,0.804463554,1.11E-05,12.72,MUS,Between -0.01 and 0.01,Between 0.75 and 0.95,Greater than 0.8,7
+Mexico,0.44,0.747782661,-0.014796453,1296,MEX,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.4 and 0.5,3
+Micronesia,0.76,1.106790123,0.003722639,0.34,FSM,Between -0.01 and 0.01,Between 1.05 and 1.25,Between 0.7 and 0.8,6
+"Moldova, Republic of",0.388,1.4393531,-0.014707679,7.74,MDA,Between -0.03 and -0.01,Between 1.25 and 1.5,Between 0.3 and 0.4,2
+Mongolia,0.446,0.730064516,-0.009403889,11.73,MNG,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.4 and 0.5,3
+Montenegro,0.564,0.929171669,-0.049145867,4.66,MNE,Less than -0.03,Between 0.75 and 0.95,Between 0.5 and 0.6,4
+Morocco,0.327,0.790051121,-0.007735717,112.6,MAR,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.3 and 0.4,2
+Mozambique,0.346,0.582408775,-0.018950489,16.59,MOZ,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.3 and 0.4,2
+Myanmar,0.768,0.915534096,-0.031636585,65.29,MMR,Less than -0.03,Between 0.75 and 0.95,Between 0.7 and 0.8,6
+Namibia,0.397,0.672387374,0.000270846,13.11,NAM,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.3 and 0.4,2
+Nepal,0.56,0.756093624,-0.021975159,19.64,NPL,Between -0.03 and -0.01,Between 0.75 and 0.95,Between 0.5 and 0.6,4
+Netherlands,0.925,0.763750628,0.000458007,880.4,NLD,Between -0.01 and 0.01,Between 0.75 and 0.95,Greater than 0.8,7
+New Zealand,0.899,2.654056437,0.009923338,201,NZL,Between -0.01 and 0.01,Greater than 1.75,Greater than 0.8,7
+Nicaragua,0.528,0.862600619,0.003270179,11.85,NIC,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.5 and 0.6,4
+Niger,0.707,0.408908803,-0.003459894,594.3,NGA,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.7 and 0.8,6
+Nigeria,0.418,0.447672131,-0.002382347,8.29,NER,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.4 and 0.5,3
+Norway,0.738,0.820190779,-0.003611138,511.6,NOR,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.7 and 0.8,6
+Oman,0.748,0.229827792,-0.00072687,80.54,OMN,Between -0.01 and 0.01,Less than 0.25,Between 0.7 and 0.8,6
+Pakistan,0.527,0.591561562,-0.003956813,237.5,PAK,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.5 and 0.6,4
+Palestine,0.566,0.24002197,-0.00106741,6.64,WBG,Between -0.01 and 0.01,Less than 0.25,Between 0.5 and 0.6,4
+Panama,0.453,0.642226529,-0.031986785,44.69,PAN,Less than -0.03,Between 0.5 and 0.75,Between 0.4 and 0.5,3
+Papua New Guinea,0.769,0.577775187,-0.003404556,16.1,PNG,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.7 and 0.8,6
+Paraguay,0.59,1.421441002,-0.011453734,31.3,PRY,Between -0.03 and -0.01,Between 1.25 and 1.5,Between 0.5 and 0.6,4
+Peru,0.487,0.7990344,-0.012941203,208.2,PER,Between -0.03 and -0.01,Between 0.75 and 0.95,Between 0.4 and 0.5,3
+Philippines,0.678,0.758974508,-0.025589713,284.6,PHL,Between -0.03 and -0.01,Between 0.75 and 0.95,Between 0.6 and 0.7,5
+Poland,0.513,1.014768744,0.001574921,552.2,POL,Between -0.01 and 0.01,Between 0.95 and 1.05,Between 0.5 and 0.6,4
+Portugal,0.486,0.586919592,0.00241255,228.2,PRT,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.4 and 0.5,3
+Puerto Rico,0.561,0.37360179,-0.002500503,93.52,PRI,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.5 and 0.6,4
+Qatar,0.543,0.30330506,-0.001130424,212,QAT,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.5 and 0.6,4
+Romania,0.453,1.492013691,0.001490071,199,ROU,Between -0.01 and 0.01,Between 1.25 and 1.5,Between 0.4 and 0.5,3
+Russian Federation,0.689,1.553712305,0.000609333,2057,RUS,Between -0.01 and 0.01,Between 1.5 and 1.75,Between 0.6 and 0.7,5
+Rwanda,0.168,0.475634013,-0.014483981,8,RWA,Between -0.03 and -0.01,Between 0.25 and 0.5,Less than 0.3,1
+Samoa,0.643,0.604782609,-0.025174288,0.75,ASM,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.6 and 0.7,5
+Sao Tome and Principe,0.348,0.363218391,-0.002252461,0.36,STP,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.3 and 0.4,2
+Saudi Arabia,0.927,0.148184961,-0.000667709,777.9,SAU,Between -0.01 and 0.01,Less than 0.25,Greater than 0.8,7
+Senegal,0.567,0.365223597,-0.004469075,15.88,SEN,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.5 and 0.6,4
+Serbia,0.584,1.43862543,0.002230639,42.65,SRB,Between -0.01 and 0.01,Between 1.25 and 1.5,Between 0.5 and 0.6,4
+Seychelles,0.336,0.643010753,-0.002252405,1.47,SYC,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.3 and 0.4,2
+Sierra Leone,0.563,0.348533999,-0.043483328,5.41,SLE,Less than -0.03,Between 0.25 and 0.5,Between 0.5 and 0.6,4
+Singapore,0.686,0.272885033,-0.000576118,307.9,SGP,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.6 and 0.7,5
+Slovakia,0.514,0.903696614,0.002333248,99.75,SVK,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.5 and 0.6,4
+Slovenia,0.613,0.597142857,-0.000319251,49.93,SVN,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.6 and 0.7,5
+Solomon Islands,0.767,0.748197115,-0.01703586,1.16,SLB,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.7 and 0.8,6
+Somalia,0.372,0.4178,-0.00785445,2.37,SOM,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.3 and 0.4,2
+South Africa,0.416,0.751737682,-0.006766441,341.2,ZAF,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.4 and 0.5,3
+Spain,0.598,0.78140358,0.005046294,1400,ESP,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.5 and 0.6,4
+Sri Lanka,0.685,0.603128492,-0.013870401,71.57,LKA,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.6 and 0.7,5
+St. Lucia,0.49,0.463095238,-0.020044297,1.35,LCA,Between -0.03 and -0.01,Between 0.25 and 0.5,Between 0.4 and 0.5,3
+St. Vincent and the Grenadines,0.548,1.038132296,-0.007636935,0.75,VCT,Between -0.01 and 0.01,Between 0.95 and 1.05,Between 0.5 and 0.6,4
+Sudan,0.332,0.54515711,-0.001913107,70.03,SDN,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.3 and 0.4,2
+Sudan South,0.359,0.860550038,0.000910789,11.89,SSD,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.3 and 0.4,2
+Suriname,0.795,0.956264775,-0.086658658,5.27,SUR,Less than -0.03,Between 0.95 and 1.05,Between 0.7 and 0.8,6
+Sweden,0.962,0.624228466,-0.000783007,559.1,SWE,Between -0.01 and 0.01,Between 0.5 and 0.75,Greater than 0.8,7
+Switzerland,0.825,0.634826498,0.000526372,679,CHE,Between -0.01 and 0.01,Between 0.5 and 0.75,Greater than 0.8,7
+Syrian Arab Republic,0.668,0.916324675,0.00572862,64.7,SYR,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.6 and 0.7,5
+Taiwan,0.697,0.468317972,0.001587424,529.5,TWN,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.6 and 0.7,5
+Tajikistan,0.437,0.606546855,0.005130242,9.16,TJK,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.4 and 0.5,3
+Tanzania,0.385,0.58475475,-0.014829858,36.62,TZA,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.3 and 0.4,2
+Thailand,0.734,1.433228613,-0.011538326,373.8,THA,Between -0.03 and -0.01,Between 1.25 and 1.5,Between 0.7 and 0.8,6
+Timor-Leste,0.63,0.405940594,-0.014547211,4.51,TLS,Between -0.03 and -0.01,Between 0.25 and 0.5,Between 0.6 and 0.7,5
+Togo,0.398,0.480388022,-0.008633308,4.84,TGO,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.3 and 0.4,2
+Tonga,0.691,0.677124183,0.000201106,0.49,TON,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.6 and 0.7,5
+Trinidad and Tobago,0.641,0.338005923,0.002802828,29.63,TTO,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.6 and 0.7,5
+Tunisia,0.57,0.563497268,0.038564581,49.12,TUN,Greater than 0.03,Between 0.5 and 0.75,Between 0.5 and 0.6,4
+Turkey,0.527,0.828064516,0.002795147,813.3,TUR,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.5 and 0.6,4
+Turkmenistan,0.458,0.610587189,-0.002881121,43.5,TKM,Between -0.01 and 0.01,Between 0.5 and 0.75,Between 0.4 and 0.5,3
+Uganda,0.405,0.512565371,-0.01676182,26.09,UGA,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.4 and 0.5,3
+Ukraine,0.554,2.22475161,-0.003442078,134.9,UKR,Between -0.01 and 0.01,Greater than 1.75,Between 0.5 and 0.6,4
+United Arab Emirates,0.701,0.083070301,0.004443812,416.4,ARE,Between -0.01 and 0.01,Less than 0.25,Between 0.7 and 0.8,6
+United Kingdom,0.929,0.643285985,-0.000395748,2848,GBR,Between -0.01 and 0.01,Between 0.5 and 0.75,Greater than 0.8,7
+United States of America,0.817,1.000378863,0.0010668,17420,USA,Between -0.01 and 0.01,Between 0.95 and 1.05,Greater than 0.8,7
+Uruguay,0.81,2.073248975,0.043807003,55.6,URY,Greater than 0.03,Greater than 1.75,Greater than 0.8,7
+Uzbekistan,0.614,0.89532102,-0.003819933,63.08,UZB,Between -0.01 and 0.01,Between 0.75 and 0.95,Between 0.6 and 0.7,5
+Vanuatu,0.686,0.677871148,-0.011355371,0.82,VUT,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.6 and 0.7,5
+Venezuela,0.66,0.489730373,-0.008111617,209.2,VEN,Between -0.01 and 0.01,Between 0.25 and 0.5,Between 0.6 and 0.7,5
+Viet Nam,0.876,1.005230567,0.001072151,187.8,VNM,Between -0.01 and 0.01,Between 0.95 and 1.05,Greater than 0.8,7
+Yemen,0.363,0.206485356,-0.003924116,45.45,YEM,Between -0.01 and 0.01,Less than 0.25,Between 0.3 and 0.4,2
+Zambia,0.356,0.727832783,-0.029915225,25.61,ZMB,Between -0.03 and -0.01,Between 0.5 and 0.75,Between 0.3 and 0.4,2
+Zimbabwe,0.232,0.455702765,-0.004331443,13.74,ZWE,Between -0.01 and 0.01,Between 0.25 and 0.5,Less than 0.3,1
